@@ -27,9 +27,11 @@
   python3 vjspider.py [contest_id]
   ```
 
+  ![contest_id](id.png)
+
   例子：
 
   ```sh
   python3 vjspider.py 136571
   ```
-如果觉得还不错， 给个star吧~
+  如果觉得还不错， 给个star吧~
